@@ -1,8 +1,8 @@
 # FRONTEND_WPA_SUPPLICANT
 # /etc/wpa_supplicant
 
-FRONTEND que genera un fichero WPASUPPLICANT .conf necesario para conectar por WIFI.
-Dados los datos SSID, ENCRIPTADO, CLAVE y ADAPTADOR DE RED, genera un fichero .conf WSUPPLICANT y conecta con la red
+FRONTEND que genera un fichero WPA_SUPPLICANT .conf necesario para conectar por WIFI.
+Dados los datos: SSID, ENCRIPTADO, CLAVE y ADAPTADOR DE RED, genera un fichero .conf WPA_SUPPLICANT y conecta con la red
 
 # EJEMPLO GENERADO CON EL FRONTEND
 /etc/wpa_supplicant/archivoWIFI.conf
